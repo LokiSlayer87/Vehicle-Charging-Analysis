@@ -78,4 +78,4 @@ The dataset (`Free2Move.csv`) contains EV rental records with the following key 
 
 ## 📄 License
 
-This project was completed as a technical assessment. Dataset rights belong to Free2Move.
+Dataset rights belong to Free2Move.
