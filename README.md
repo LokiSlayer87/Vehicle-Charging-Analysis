@@ -66,31 +66,6 @@ The dataset (`Free2Move.csv`) contains EV rental records with the following key 
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install pandas matplotlib numpy scikit-learn jupyter
-   ```
-
-3. **Add the dataset**  
-   Place `Free2Move.csv` in the project root and update the path in the notebook:
-   ```python
-   data = pd.read_csv('Free2Move.csv')  # update from the original hardcoded path
-   ```
-
-4. **Launch the notebook**
-   ```bash
-   jupyter notebook Free2Move_assessment.ipynb
-   ```
-
----
 
 ## 📊 Key Insights
 
